@@ -1,0 +1,15 @@
+/Users/vika/Projects/HW_27.10/HW_27.10/bin/Debug/net6.0/HW_27.10
+/Users/vika/Projects/HW_27.10/HW_27.10/bin/Debug/net6.0/HW_27.10.deps.json
+/Users/vika/Projects/HW_27.10/HW_27.10/bin/Debug/net6.0/HW_27.10.runtimeconfig.json
+/Users/vika/Projects/HW_27.10/HW_27.10/bin/Debug/net6.0/HW_27.10.dll
+/Users/vika/Projects/HW_27.10/HW_27.10/bin/Debug/net6.0/HW_27.10.pdb
+/Users/vika/Projects/HW_27.10/HW_27.10/obj/Debug/net6.0/HW_27.10.csproj.AssemblyReference.cache
+/Users/vika/Projects/HW_27.10/HW_27.10/obj/Debug/net6.0/HW_27.10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vika/Projects/HW_27.10/HW_27.10/obj/Debug/net6.0/HW_27.10.AssemblyInfoInputs.cache
+/Users/vika/Projects/HW_27.10/HW_27.10/obj/Debug/net6.0/HW_27.10.AssemblyInfo.cs
+/Users/vika/Projects/HW_27.10/HW_27.10/obj/Debug/net6.0/HW_27.10.csproj.CoreCompileInputs.cache
+/Users/vika/Projects/HW_27.10/HW_27.10/obj/Debug/net6.0/HW_27.10.dll
+/Users/vika/Projects/HW_27.10/HW_27.10/obj/Debug/net6.0/refint/HW_27.10.dll
+/Users/vika/Projects/HW_27.10/HW_27.10/obj/Debug/net6.0/HW_27.10.pdb
+/Users/vika/Projects/HW_27.10/HW_27.10/obj/Debug/net6.0/HW_27.10.genruntimeconfig.cache
+/Users/vika/Projects/HW_27.10/HW_27.10/obj/Debug/net6.0/ref/HW_27.10.dll
